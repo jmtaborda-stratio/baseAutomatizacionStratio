@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: RunnerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 20.461 s <<< FAILURE! - in RunnerTest
+Prueba de validacion del API jsonPlaceHolder(Esto es una feature de prueba para la formacion)  Time elapsed: 12.245 s  <<< FAILURE!
+java.lang.AssertionError: User ID del registro [2] incorrecto expected:<123> but was:<1>
+
