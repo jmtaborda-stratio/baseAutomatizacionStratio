@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Esto es una feature de prueba para la formacion" skipped="0" tests="1" time="12.16" timestamp="2021-02-04 12:34:41"><testcase name="Prueba de validacion del API jsonPlaceHolder"><failure message="User ID del registro [2] incorrecto expected:&lt;123&gt; but was:&lt;1&gt;" type="java.lang.AssertionError">User ID del registro [2] incorrecto expected:&lt;123&gt; but was:&lt;1&gt;</failure><system-err>User ID del registro [2] incorrecto expected:&lt;123&gt; but was:&lt;1&gt;&#13;
-utils.UtilsCommon.assertAllFieldUser(UtilsCommon.java:92)&#13;
-utils.UtilsCommon.compareUser(UtilsCommon.java:80)&#13;
-stepDefinitions.MyStepdefs.laRespuestaCoincideConLaEsperada(MyStepdefs.java:24)&#13;
-✽.La respuesta coincide con la "outputJsonPlaceHolderPost.json" esperada(features/PruebaFeature1.feature:8)&#13;
-</system-err></testcase></testsuite>
