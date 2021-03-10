@@ -1,4 +1,6 @@
+utils/UtilsCommon.class
+stepDefinitions/MyStepdefs.class
+MyStepdefs_BookStore.class
 RunnerTest.class
-stepDefinitions\MyStepdefs.class
-schemas\UserFormacion.class
-utils\UtilsCommon.class
+schemas/UserFormacion.class
+MyStepdefs_Bajio.class

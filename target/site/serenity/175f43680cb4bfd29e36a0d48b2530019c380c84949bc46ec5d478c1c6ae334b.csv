@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"HU01 Usuario que inicia en remoto solicita producto","Acceso correcto a Conecta BanBajio","SUCCESS","2021-03-10T08:54:50.656171+01:00[Europe/Madrid]","0.0","0.01"
+"HU01 Usuario que inicia en remoto solicita producto","Inicio del flujo CLIENTE INICIA REMOTO-TERMINA SUCURSAL","SUCCESS","2021-03-10T08:54:50.665602+01:00[Europe/Madrid]","0.0","0.01"
+"HU01 Usuario que inicia en remoto solicita producto","Inicio del flujo NO CLIENTE INICIA REMOTO-TERMINA SUCURSAL","SUCCESS","2021-03-10T08:54:50.674273+01:00[Europe/Madrid]","0.0","0.01"
