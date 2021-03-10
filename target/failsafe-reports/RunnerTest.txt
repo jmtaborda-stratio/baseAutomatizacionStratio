@@ -1,0 +1,22 @@
+-------------------------------------------------------------------------------
+Test set: RunnerTest
+-------------------------------------------------------------------------------
+Tests run: 36, Failures: 6, Errors: 0, Skipped: 20, Time elapsed: 9.55 s <<< FAILURE! - in RunnerTest
+Registro de usuario satisfactorio en la Book Store(HU00 Test del software de la tienda de libros)  Time elapsed: 2.71 s  <<< FAILURE!
+java.lang.AssertionError: Correct status code returned expected:<201> but was:<406>
+
+Registro de usuario satisfactorio en la Book Store(HU00 Test del software de la tienda de libros)  Time elapsed: 0.357 s  <<< FAILURE!
+java.lang.AssertionError: Correct status code returned expected:<201> but was:<406>
+
+Registro de usuario satisfactorio en la Book Store(HU00 Test del software de la tienda de libros)  Time elapsed: 0.35 s  <<< FAILURE!
+java.lang.AssertionError: Correct status code returned expected:<201> but was:<406>
+
+Registro de usuario satisfactorio en la Book Store(HU00 Test del software de la tienda de libros)  Time elapsed: 0.314 s  <<< FAILURE!
+java.lang.AssertionError: Correct status code returned expected:<201> but was:<406>
+
+Registro de usuario satisfactorio en la Book Store(HU00 Test del software de la tienda de libros)  Time elapsed: 0.286 s  <<< FAILURE!
+java.lang.AssertionError: Correct status code returned expected:<201> but was:<406>
+
+Registro de usuario satisfactorio en la Book Store(HU00 Test del software de la tienda de libros)  Time elapsed: 0.305 s  <<< FAILURE!
+java.lang.AssertionError: Correct status code returned expected:<201> but was:<406>
+

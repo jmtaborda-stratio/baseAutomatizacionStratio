@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"HU02 Usuario no cliente que inicia el proceso de apertura de cuenta","Validacion del campo celular introduciendo un valor correcto","PENDING","2021-03-10T08:54:50.682774+01:00[Europe/Madrid]","0.0","0.05"
+"HU02 Usuario no cliente que inicia el proceso de apertura de cuenta","Validacion del campo celular introduciendo un valor incorrecto","PENDING","2021-03-10T08:54:50.739882+01:00[Europe/Madrid]","0.0","0.03"
+"HU02 Usuario no cliente que inicia el proceso de apertura de cuenta","Validacion del campo correo electronico introduciendo un valor correcto","PENDING","2021-03-10T08:54:50.775747+01:00[Europe/Madrid]","0.0","0.04"
+"HU02 Usuario no cliente que inicia el proceso de apertura de cuenta","Validacion del campo correo electronico introduciendo un valor incorrecto","PENDING","2021-03-10T08:54:50.813846+01:00[Europe/Madrid]","0.0","0.04"
+"HU02 Usuario no cliente que inicia el proceso de apertura de cuenta","Interaccion con los links de la pagina","SUCCESS","2021-03-10T08:54:50.853091+01:00[Europe/Madrid]","0.0","0.01"
+"HU02 Usuario no cliente que inicia el proceso de apertura de cuenta","Acceso de apertura de cuenta correcto","PENDING","2021-03-10T08:54:50.863138+01:00[Europe/Madrid]","0.0","0.05"

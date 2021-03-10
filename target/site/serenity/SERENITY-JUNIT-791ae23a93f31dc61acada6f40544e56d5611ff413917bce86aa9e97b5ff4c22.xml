@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="6" name="HU00 Test del software de la tienda de libros" skipped="0" tests="12" time="4.6" timestamp="2021-03-10 08:54:44"><testcase name="Registro de usuario satisfactorio en la Book Store"><failure message="Correct status code returned expected:&lt;201&gt; but was:&lt;406&gt;" type="java.lang.AssertionError">Correct status code returned expected:&lt;201&gt; but was:&lt;406&gt;</failure><system-err>Correct status code returned expected:&lt;201&gt; but was:&lt;406&gt;
+MyStepdefs_BookStore.elSeDaDeAltaCorrectamente(MyStepdefs_BookStore.java:34)
+✽.El "11 12" se da de alta correctamente(features/HU0_TestBookStore.feature:11)
+</system-err></testcase><testcase name="Registro incorrecto de usuarios duplicado en la Book Store"/></testsuite>
