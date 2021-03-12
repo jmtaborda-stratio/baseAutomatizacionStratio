@@ -1,4 +1,4 @@
-Feature: Asignacion de Cuenta
+Feature: HU22 Asignacion de Cuenta
   COMO ejecutivo
   QUIERO que la plataforma asigne un número de cuenta
   PARA la fácil identificación del producto del cliente

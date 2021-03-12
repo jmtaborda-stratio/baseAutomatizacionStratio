@@ -1,4 +1,4 @@
-Feature: Envio por correo electronico e impresion de documentos
+Feature: HU24 Envio por correo electronico e impresion de documentos
   COMO ejecutivo
   QUIERO enviar todos los documentos a impresión con un sólo botón; así como enviarle al cliente sus clausulados vía correo electrónico
   PARA imprimirlos con un sólo botón
@@ -19,6 +19,12 @@ Feature: Envio por correo electronico e impresion de documentos
     And es visible el botón IMPRIMIR
     And es visible el botón ENVIAR CLAUSULADOS
 
+  Scenario:  Avisos impresion completa
+    Given El ejecutivo se encuetra en la pantalla de información de Tarjeta de Débito
+    When Se pulsa el boton IMPRIMIR
+    Then La plataforma lanzará dos avisos:
+      | Impresión lista, por favor recaba la firma del cliente.                   |
+      | Enviamos los clausulados al correo XXXXX@xxx.xxxx registrado en la cuenta |
 
 
 
